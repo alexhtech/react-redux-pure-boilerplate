@@ -1,0 +1,8 @@
+{
+  "APP_API_USE_HTTPS": true,
+  "APP_API_DOMAIN": "api.github.com",
+  "APP_API_PREFIX": "",
+  "APP_TOKEN_NAME": "token",
+  "APP_REFRESH_TOKEN_NAME": "refreshToken",
+  "APP_TOKEN_PREFIX": ""
+}

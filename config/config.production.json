@@ -1,0 +1,9 @@
+{
+  "APP_API_USE_HTTPS": false,
+  "APP_API_DOMAIN": "api.zoozz.org",
+  "APP_API_PREFIX": "/api",
+  "APP_TOKEN_NAME": "token",
+  "APP_REFRESH_TOKEN_NAME": "refreshToken",
+  "APP_TOKEN_PREFIX": "",
+  "APP_BASE_URL": ""
+}
